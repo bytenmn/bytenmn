@@ -29,7 +29,7 @@ I work at the intersection of data and machine learning — building models, pip
 ---
 
 <p align="center">
-  <img src="https://pin.it/6I3UFgTCP" width="420" alt="Neural Network" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Machine Learning" />
 </p>
 
 ---
