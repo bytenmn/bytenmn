@@ -28,11 +28,8 @@ I work at the intersection of data and machine learning — building models, pip
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=default" />
+<p align="center">
+  <img src="https://pin.it/6I3UFgTCP" width="420" alt="Neural Network" />
 </p>
 
 ---
