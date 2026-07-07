@@ -20,5 +20,5 @@ I'm a passionate **Machine Learning Engineer** who loves turning data into intel
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nomasjtx-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nomansjtx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nomansjtx-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nomansjtx)
 [![Email](https://img.shields.io/badge/Email-numanadnan56@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:numanadnan56@gmail.com)
